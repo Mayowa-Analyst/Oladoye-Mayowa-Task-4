@@ -8,7 +8,7 @@ This project presents an interactive **E-Commerce Performance Insights Dashboard
 ---
 
 ## 📈 Executive Key Performance Indicators (KPIs)
-Based on the dashboard summary, the business achieved the following macroscopic metrics:
+The business achieved the following macroscopic metrics:
 * **Total Sales Revenue:** $1.26M
 * **Total Units Sold:** 3,535 items
 * **Fulfillment Rate:** 19.25% *(Indicates a critical volume of unfulfilled, cancelled, or returned items requiring operational review).*
